@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gatsby-starter-dimension
 
 **This is a starter for Gatsby.js V2.**
@@ -17,3 +18,7 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 `gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension`
 
 Run `gatsby develop` in the terminal to start the dev site.
+=======
+# Profilesite
+Profile using Gatsby js
+>>>>>>> 12907c329cedb626662fa4228c60029fc42d35fb
