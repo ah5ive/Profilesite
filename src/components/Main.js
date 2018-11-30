@@ -19,13 +19,13 @@ class Main extends React.Component {
         <article id="intro" className={`${this.props.article === 'experience' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Experiences</h2>
           <span className="image main"><img src={pic01} alt="Experiences" /></span>
-          <p><strong>Shiinstudio,  Singapore - Content Producer, Sole Proprietor</strong><br />June 2009 - August 2017<br/> Produced and Composed songs, radio commercial for TV stations, product and services. Produced motion graphics and music video for local music acts. Manage and execute design projects for magazines, retailers and F & B.</p>
-          <p><strong>Pinpress Pte Ltd, Singapore - Senior Designer</strong><br />May 2008 - April 2009<br/>Manage and execute design projects from design conceptualisation to liaising with supplier and client, quality control the print production and completion of projects.</p>
-          <p><strong>Artnexus Design - Senior Graphic Designer</strong><br/>May 2007 - April  2008<br/>Conceptualising and execute design for corporate identity, Branding, annual reports, design. Liaising with suppliers and printers to make sure the product is well delivered.</p>
-          <p><strong>Lancer Media, Pure Design and Wordsworth - Freelance Designer</strong><br/>2006 - 2007<br/>Freelancer to varies design firm. Designing corporate identity, annual reports and other design collaterals. </p>
-          <p><strong>NTUC Media - Senior Graphic Designer</strong><br/>2001 - 2007<br/>Manage a team of 4 designer, to oversees the quality of design and completion of other publications and Ad Hoc projects  that assigned to them. Communicate with Union leaders, Editors, Journalist, sales team to get design briefs, conceptualise ideas for their campaigns.</p>
-          <p><strong>Design Objectives - Graphic Designer</strong><br/>1999 - 2000<br/>Conceptualise and execute design solutions for hotels, serivces and corporate companies</p>
-          <p><strong>WheelsAsia - Graphic Designer</strong><br/>1998 - 1999<br/>First job in a monthly car magazine publishing firm</p>
+          <p><strong>Content Producer, Sole Proprietor - Shiinstudio,  Singapore</strong><br />June 2009 - August 2017<br/> Produced and Composed songs, radio commercial for TV stations, product and services. Produced motion graphics and music video for local music acts. Manage and execute design projects for magazines, retailers and F & B.</p>
+          <p><strong>Senior Designer - Pinpress Pte Ltd, Singapore</strong><br />May 2008 - April 2009<br/>Manage and execute design projects from design conceptualisation to liaising with supplier and client, quality control the print production and completion of projects.</p>
+          <p><strong>Senior Graphic Designer - Artnexus Design</strong><br/>May 2007 - April  2008<br/>Conceptualising and execute design for corporate identity, Branding, annual reports, design. Liaising with suppliers and printers to make sure the product is well delivered.</p>
+          <p><strong>Freelance Designer - Lancer Media, Pure Design and Wordsworth</strong><br/>2006 - 2007<br/>Freelancer to varies design firm. Designing corporate identity, annual reports and other design collaterals. </p>
+          <p><strong>Senior Graphic Designer - NTUC Media</strong><br/>2001 - 2007<br/>Manage a team of 4 designer, to oversees the quality of design and completion of other publications and Ad Hoc projects  that assigned to them. Communicate with Union leaders, Editors, Journalist, sales team to get design briefs, conceptualise ideas for their campaigns.</p>
+          <p><strong>Graphic Designer - Design Objectives</strong><br/>1999 - 2000<br/>Conceptualise and execute design solutions for hotels, serivces and corporate companies</p>
+          <p><strong>Graphic Designer - WheelsAsia</strong><br/>1998 - 1999<br/>First job in a monthly car magazine publishing firm</p>
           {close}
         </article>
 
@@ -49,7 +49,7 @@ class Main extends React.Component {
           <h2 className="major">About</h2>
           <span className="image main"><img src={pic03} alt="About Me" /></span>
           <p>Graduated from General Assembly 12 Week Full time Web Development Immersive course.
-             Gaining knowledge in HTML, CSS3, Javascript, Node.js, Express.js, React.js, PostgreSQL and Ruby on Rails. 20 years experience in the creative industry,  making a career switch as a Front-End Web Developer.</p>
+             Gaining knowledge in HTML, CSS3, Javascript, Node.js, Express.js, React.js, PostgreSQL and Ruby on Rails. 20 years experience in the creative industry,  making a difference as a Front-End Web Developer.</p>
           {close}
         </article>
 
